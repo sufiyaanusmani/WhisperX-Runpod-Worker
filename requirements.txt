@@ -1,0 +1,8 @@
+torch==2.3.0+cu121 -f https://download.pytorch.org/whl/cu121/torch_stable.html
+torchvision==0.18.0+cu121 -f https://download.pytorch.org/whl/cu121/torch_stable.html
+torchaudio==2.3.0+cu121 -f https://download.pytorch.org/whl/cu121/torch_stable.html
+pyannote.audio==3.1.1
+whisperx==3.1.5
+requests==2.32.3
+setuptools-rust==1.8.0
+runpod==1.6.2
